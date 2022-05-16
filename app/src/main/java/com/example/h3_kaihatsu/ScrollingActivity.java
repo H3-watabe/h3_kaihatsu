@@ -31,6 +31,8 @@ public class ScrollingActivity extends AppCompatActivity {
         CollapsingToolbarLayout toolBarLayout = binding.toolbarLayout;
         toolBarLayout.setTitle(getTitle());
 
+        //見えますか
+
         FloatingActionButton fab = binding.fab;
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
