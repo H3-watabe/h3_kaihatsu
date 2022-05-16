@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "388635731815",
+    "firebase_url": "https://h3-kaihatsu-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "h3-kaihatsu",
+    "storage_bucket": "h3-kaihatsu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388635731815:android:f5cd1a2bfa7ce28a3731c2",
+        "android_client_info": {
+          "package_name": "com.example.h3_kaihatsu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388635731815-kue5g64goeupe3ron9s8jsj3nbm9m516.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClyrJo-T0cWvVMJ-fQn1pJTaBHiWYGHWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388635731815-kue5g64goeupe3ron9s8jsj3nbm9m516.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
