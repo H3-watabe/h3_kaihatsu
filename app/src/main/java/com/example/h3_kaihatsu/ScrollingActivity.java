@@ -37,6 +37,9 @@ public class ScrollingActivity extends AppCompatActivity {
 
 
 
+        //おおおお
+
+
         FloatingActionButton fab = binding.fab;
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -67,4 +70,4 @@ public class ScrollingActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
-}
+}//yusuke
