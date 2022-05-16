@@ -34,6 +34,7 @@ public class ScrollingActivity extends AppCompatActivity {
 
         //naomi
         //わわわ
+        //わーい
 
 
 
