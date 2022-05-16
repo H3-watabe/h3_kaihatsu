@@ -36,6 +36,9 @@ public class ScrollingActivity extends AppCompatActivity {
 
         //naomi
 
+        //おおおお
+
+
         FloatingActionButton fab = binding.fab;
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
